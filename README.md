@@ -32,14 +32,15 @@ In the project directory, simply run:
 Add your screenshots here to visually showcase the app’s features:
 
 1. **Home Screen**
-   ![Home Screen]![Screenshot 2024-12-31 105848](https://github.com/user-attachments/assets/56296989-18c0-4bb2-bb08-7dabfe43bc3a)
+![Screenshot 2024-12-31 105848](https://github.com/user-attachments/assets/56296989-18c0-4bb2-bb08-7dabfe43bc3a)
 
 
 2. **Adding a Friend**
-   ![Add Friend](path-to-your-image.png)
+   ![Screenshot 2024-12-31 110105](https://github.com/user-attachments/assets/3bf8dd0b-f055-415c-a6ed-7ac96bb79e54)
+
 
 3. **Splitting a Bill**
-   ![Split Bill](path-to-your-image.png)
+   ![Screenshot 2024-12-31 110143](https://github.com/user-attachments/assets/72b4be2a-cbec-43ec-af01-df58baf7f1ae)
 
 ---
 
