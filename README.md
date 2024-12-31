@@ -19,6 +19,30 @@ In the project directory, simply run:
 
 ---
 
+## Features 🌟
+- **Add Friends**: Quickly add friends and assign them a fun, random avatar.
+- **Track Balances**: See who owes whom and how much at a glance.
+- **Split Bills**: Simplify expense sharing by entering bill details and calculating splits.
+- **User-Friendly Design**: Clean and intuitive interface.
+
+---
+
+## Screenshots 🖼
+
+Add your screenshots here to visually showcase the app’s features:
+
+1. **Home Screen**
+   ![Home Screen]![Screenshot 2024-12-31 105848](https://github.com/user-attachments/assets/56296989-18c0-4bb2-bb08-7dabfe43bc3a)
+
+
+2. **Adding a Friend**
+   ![Add Friend](path-to-your-image.png)
+
+3. **Splitting a Bill**
+   ![Split Bill](path-to-your-image.png)
+
+---
+
 ## Additional Scripts 🚀
 
 ### `npm test`
@@ -43,6 +67,25 @@ Feeling adventurous? **Eject** to:
 - Customize webpack, Babel, ESLint, and more.
 
 **Note:** Ejecting is a one-way ticket. Proceed with caution! 🎩
+
+---
+
+## Technologies Used 🛠
+- **React**: For building the user interface.
+- **CSS**: For styling the app.
+- **Pravatar API**: For generating random avatars.
+
+---
+
+## How to Contribute 📚
+
+We’d love your help in improving **Eat and Split**! Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Open a pull request and describe your changes.
 
 ---
 
