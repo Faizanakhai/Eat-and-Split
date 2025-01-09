@@ -29,8 +29,6 @@ In the project directory, simply run:
 
 ## Screenshots 🖼
 
-Add your screenshots here to visually showcase the app’s features:
-
 1. **Home Screen**
 ![Screenshot 2024-12-31 105848](https://github.com/user-attachments/assets/56296989-18c0-4bb2-bb08-7dabfe43bc3a)
 
